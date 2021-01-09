@@ -1,6 +1,6 @@
 # Nuxtools
 
-## 👨🏻‍🔧 My reference links when using nuxtjs
+### 👨🏻‍🔧 My reference links when using nuxtjs
 
 🏷 Nuxt modules
 
